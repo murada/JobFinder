@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E64B51</color>
+    <color name="colorPrimaryDark">#E54A50</color>
+    <color name="colorAccent">#E64B51</color>
+    <color name="spinner_base_color">#44000000</color>
+    <color name="spinner_hint_text_color">#ffffff</color>
+    <color name="arrow" >#000000</color>
+    <color name="floating_label">#ffeeee</color>
+
+</resources>

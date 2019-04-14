@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Job Finder</string>
+    <string name="error_network_timeout">Internet Connection Error</string>
+    <string name="search_by_city">Search by city</string>
+    <string name="title_activity_result">Search Result</string>
+    <string name="find">Find</string>
+    <string name="all">All Providers</string>
+    <string name="providers">Providers :</string>
+    <string name="position">Position</string>
+    <string name="filter">Filter</string>
+</resources>
